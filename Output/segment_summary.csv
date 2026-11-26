@@ -1,0 +1,5 @@
+cluster,segment,users,avg_engagement,avg_churn_risk,avg_days_since_login,avg_sessions_week,pct_premium,share_%,business_action,recommended_tactics,priority
+0,High Engagement Users,12719,71.59,0.27,32.75,7.83,14.69,25.4,Loyalty & premium upsell,"VIP / loyalty rewards, early access to new features, Premium upgrade offers, referral programme",Nurture
+1,Moderate Engagement Users,12597,58.17,0.28,11.02,8.2,14.81,25.2,Grow engagement,"Personalised feature recommendations, streaks & gamification, educational nudges, Basic→Premium trials",Medium
+2,Low Engagement / At-Risk Users,12279,55.34,0.73,31.36,8.21,14.86,24.6,Retention / win-back,"Win-back offers & discounts, re-engagement push + email, onboarding refresh, survey on pain points",High (urgent)
+3,Occasional Users,12405,74.5,0.73,13.01,7.77,14.98,24.8,Build habit,"Timely reminders around their usage bursts, content digests, limited-time triggers, simplified quick-start flows",High
